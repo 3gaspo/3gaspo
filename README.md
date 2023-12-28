@@ -1,3 +1,3 @@
-Student at CentraleSupélec (french engineering school)
+Student at CentraleSupélec (Université Paris Saclay) & ENS Paris Saclay (master MVA)
 
-Majoring in applied mathematics and computer science (in particular machine learning)
+Majoring in mathematics, data science & machine learning (statistics, NLP, graphs, signal processing, predictive models & interpretability)
